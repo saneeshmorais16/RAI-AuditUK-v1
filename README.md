@@ -54,6 +54,8 @@ Generated outputs:
 - `outputs/permutation_importance.csv`
 - `outputs/audit_report.md`
 
+These generated sample outputs from the synthetic audit workflow are committed for review.
+
 ## Run dashboard
 
 ```bash

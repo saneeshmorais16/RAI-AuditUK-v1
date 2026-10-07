@@ -1,0 +1,2 @@
+accuracy,precision,recall,f1,roc_auc,robustness_agreement_after_small_perturbation
+0.825,0.8490566037735849,0.8823529411764706,0.8653846153846154,0.9202163624070318,0.925
