@@ -1,5 +1,7 @@
 # Responsible AI Governance & Model Risk Assessment
 
+[Verification record](docs/VERIFICATION.md)
+
 RAI-AuditUK v1 is a portfolio Responsible AI audit project for loan approval and credit-risk style machine-learning models. It generates performance, fairness, explainability, robustness and governance-readiness evidence with an understandable audit report.
 
 ## Implemented features
